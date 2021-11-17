@@ -1,0 +1,11 @@
+# picture.hpp
+!fence.cpp graphics.h keys_n_colors.h picture.hpp #<#>
+!house.cpp graphics.h keys_n_colors.h picture.hpp #<#>
+!man.cpp graphics.h keys_n_colors.h picture.hpp #<#>
+!program.cpp graphics.h keys_n_colors.h picture.hpp #<#>
+!sun.cpp graphics.h keys_n_colors.h picture.hpp #<#>
+fence() -> void #<picture.hpp>
+house() -> void #<picture.hpp>
+main() -> int #<program.cpp>
+man() -> void #<picture.hpp>
+sun() -> void #<picture.hpp>
